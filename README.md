@@ -1,4 +1,4 @@
-# IBMDataScienceProfessionalCertificate
+# Data Science Professional Certificate
 
 Welcome to my repository for the **IBM Data Science Professional Certificate** course! In this repo, I share all my practical exercises and projects that I completed as part of the course. This is a great place to follow along with my learning journey, see real examples of data science in action, and find useful code snippets for your own projects.
 
