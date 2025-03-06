@@ -20,4 +20,4 @@ This repository is intended to:
 1. **Clone the Repository:**  
    Clone this repo to your local machine to explore the notebooks and projects:
    ```bash
-   git clone https://github.com/yourusername/IBMDataScienceProfessionalCertificate.git
+   git clone https://github.com/yourusername/DataScienceProfessionalCertificate.git
